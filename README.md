@@ -1,4 +1,4 @@
-##Account class
+**Account class**
 The Account class with additional required attributes to the class such as;
 
 - Deposit/Withdraw
